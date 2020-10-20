@@ -1,0 +1,40 @@
+body{
+  background-color: rgb(1, 31, 63);
+}
+
+h1
+{
+  color:white;
+  font-size: 50px;
+  font-family: cursive;
+}
+table{
+  width: 100%;
+}
+tr{
+  width: 100%;
+}
+td{
+  border:2px solid black;
+  border-radius: 10px;
+  height:200px;
+}
+.border-selec{
+  border:2px solid white;
+}
+.green{
+  background-color: green;
+
+}
+.red{
+  background-color: red;
+
+}
+.yellow{
+  background-color: yellow;
+
+}
+.blue{
+  background-color: blue;
+
+}
